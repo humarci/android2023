@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared preferences Demo1</string>
+    <string name="btnSave">Save</string>
+    <string name="btnLoad">Load</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintEmail">E-mail</string>
+    <string name="hintName">Name</string>
+</resources>
